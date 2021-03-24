@@ -1,5 +1,5 @@
 const number=prompt("Enter a number please");
 
-const re = number*number;
+const re = Number(num)*Number(num);
 
 alert(re);
